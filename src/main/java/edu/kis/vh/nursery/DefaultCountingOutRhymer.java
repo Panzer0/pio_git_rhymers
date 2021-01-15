@@ -3,7 +3,7 @@ package edu.kis.vh.nursery;
 public class DefaultCountingOutRhymer {
 	private final int EMPTY_RHYMER_INDICATOR=-1;
 	private final int DEFAULT_VALUE=-1;
-	private final int MAX_SIZE=11;
+	private final int MAX_SIZE=12;
 	private static final int variable = -1;
 	private int[] numbers = new int[MAX_SIZE];
 
@@ -27,7 +27,7 @@ public class DefaultCountingOutRhymer {
 		}
 
 	public boolean isFull() {
-		return total==MAX_SIZE ;
+		return total==(MAX_SIZE-1) ;
 	}
 		
 
