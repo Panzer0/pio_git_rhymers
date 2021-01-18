@@ -1,7 +1,7 @@
 package edu.kis.vh.nursery.list;
 
 public class IntLinkedList {
-
+									//Nowy folder
 	Node last;
 	int i;
 
