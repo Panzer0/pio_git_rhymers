@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b86005f3-dab2-4e28-8955-2427b7a7e172" name="Default Changelist" comment="Drugie podejście do poprzednich zmian">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/IntArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/DefaultCountingOutRhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/DefaultCountingOutRhymer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nFuR1BEjxF7yYkHZCAaMKOF08m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\pio_current\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RhymersJUnitTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="powp-rhymers" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-15" />
+      <option name="PACKAGE_NAME" value="edu.kis.vh.nursery" />
+      <option name="MAIN_CLASS_NAME" value="edu.kis.vh.nursery.RhymersJUnitTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="powp-rhymers" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-15" />
+      <option name="PACKAGE_NAME" value="edu.kis.vh.nursery" />
+      <option name="MAIN_CLASS_NAME" value="edu.kis.vh.nursery.RhymersJUnitTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86005f3-dab2-4e28-8955-2427b7a7e172" name="Default Changelist" comment="" />
+      <created>1610998147608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610998147608</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Test po zaimportowaniu do nowego folderu">
+      <created>1610998332350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610998332350</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test po zaimportowaniu do nowego folderu">
+      <created>1610999721779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610999721779</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.4 | Hermetyzacja | Ponownie dodanie gettera total">
+      <created>1611002108599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611002108599</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.4 | Hermetyzacja | Dodano settery i dokonano hermetyzacji">
+      <created>1611002240202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611002240202</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.5 | Wydobyto metodę i przetestowano kod.">
+      <created>1611004141842</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611004141842</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.5 | Dodano dokumentację klasy IntLinkedList">
+      <created>1611006589044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611006589044</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Git reset">
+      <created>1611007900405</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611007900405</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Git reset nie cofnął wszystkich zmian, bo kilka razy tworzyłem nowe repozytorium lokalne.">
+      <created>1611008051307</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611008051307</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Git reset nie cofnął wszystkich zmian, bo kilka razy tworzyłem nowe repozytorium lokalne.">
+      <created>1611010563407</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611010563407</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Git reset nie cofnął wszystkich zmian, bo kilka razy tworzyłem nowe repozytorium lokalne.">
+      <created>1611010706583</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611010706583</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Drugie podejście do poprzednich zmian">
+      <created>1611658398059</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611658398059</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test po zaimportowaniu do nowego folderu" />
+    <MESSAGE value="1.4 | Hermetyzacja | Ponownie dodanie gettera total" />
+    <MESSAGE value="1.4 | Hermetyzacja | Dodano settery i dokonano hermetyzacji" />
+    <MESSAGE value="1.5 | Wydobyto metodę i przetestowano kod." />
+    <MESSAGE value="1.5 | Dodano dokumentację klasy IntLinkedList" />
+    <MESSAGE value="Git reset" />
+    <MESSAGE value="Git reset nie cofnął wszystkich zmian, bo kilka razy tworzyłem nowe repozytorium lokalne." />
+    <MESSAGE value="Drugie podejście do poprzednich zmian" />
+    <option name="LAST_COMMIT_MESSAGE" value="Drugie podejście do poprzednich zmian" />
+  </component>
+</project>
